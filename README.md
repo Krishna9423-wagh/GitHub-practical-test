@@ -1,28 +1,44 @@
+My Personal Portfolio
 
-My Portfolio
+Student Details
 
-Project Name
-Personal Portfolio Website
+- Name: Krishna wagh
+- URN: E25B032412
+- Semester: 3rd Semester
+- Section: A
+- Subject: Git and GitHub
 
-About
-This is my basic personal portfolio website.
+## About This Project
 
-Technologies Used
+This is my personal portfolio website created
+for my Git and GitHub practical test.
+
+It contains a short introduction, my skills
+and some of the projects I have worked on.
+
+## Technologies Used
+
 - HTML
 - CSS
 - JavaScript
 - Git
 - GitHub
 
-Features
-- Personal information
-- Education details
-- Skills
-- Contact details
-- JavaScript button interaction
+## Project Files
 
-Created By
+- index.html - Main webpage
+- style.css - Website styling
+- script.js - JavaScript code
+- README.md - Project documentation
+
+## Features
+
+- Minimal website design
+- About Me section
+- Skills section
+- Projects section
+- Responsive layout
+
+## Created By
+
 Krishna Wagh
-
-Purpose
-Created for Git and GitHub practical examination.
